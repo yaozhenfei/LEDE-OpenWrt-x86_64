@@ -5,5 +5,5 @@ src-git telephony https://git.openwrt.org/feed/telephony.git;openwrt-21.02
 #src-link custom /usr/src/openwrt/custom-feed
 src-git lienol https://github.com/Lienol/openwrt-package.git;main
 src-git other https://github.com/Lienol/openwrt-package.git;other
-src-git helloworld https://github.com/fw876/helloworld
-#src-git passwall https://github.com/xiaorouji/openwrt-passwall
+#src-git helloworld https://github.com/fw876/helloworld
+src-git passwall https://github.com/xiaorouji/openwrt-passwall
