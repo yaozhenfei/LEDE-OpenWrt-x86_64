@@ -12,4 +12,3 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages.git
 src-git passwall https://github.com/xiaorouji/openwrt-passwall.git
 src-git OpenClash https://github.com/vernesong/OpenClash.git
-#src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git
